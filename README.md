@@ -8,7 +8,14 @@ Esseyi, which means "Knowledge" in Ikposso (a language spoken in Togo), aims to 
 - Selection and recruitment by Higher Education Institutions
 - Validation of diplomas, results, and certificates issued
 - Improving the employability of students after graduation
-
+---
+**Business Demand Overview**
+- Reporter: Emeric / CEO
+- Esseyi Objective: to digitalize the African student ecosystem (secondary education)
+- Value of Change / project objective: to provide an overview of the activity to date + a management tool, to provide business recommendations
+- Necessary Systems: SQL, Power BI, CRM (Bubble)
+- Other Relevant Info: all data has been extracted in .csv format in March 2024
+---
 **User stories**
 
 | No # | As a (role) | I want (request / demand) | So that I (user value) | Acceptance Criteria |
