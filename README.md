@@ -425,8 +425,7 @@ First ideas by looking the tables separately :
 
 To make future comparisons, I splitted them in Excel in 6 separated colums ‘Categories_recherchées_split1, Categories_recherchées_split2…) to finally get this result :
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5ad1c5e2-3604-4146-b25d-48247979f9e2/1ce5f237-7f15-4c7d-a76c-35f579f01213/Untitled.png)
-
+![Students_wishlist](Students_wishlist.png)
 - Users ‘Creation Date’ was in wrong format and needed to be converted
 
 ```sql
