@@ -438,7 +438,7 @@ UPDATE [Esseyi].[dbo].[Users]
 SET New_creation_date = FORMAT(Creation_Date, 'yyyy-MM');
 ```
 
-[Students_wishlist](https://github.com/ClementGuerin-wagon/esseyi/blob/main/Students_wishlist.png)
+![Subscribers_evolution](Subscribers_evolution.png)
 
 ### Calculated fields
 
@@ -462,7 +462,7 @@ DIVIDE(
 ) * 100
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5ad1c5e2-3604-4146-b25d-48247979f9e2/2797c010-9c19-4d2c-a5e0-44d79ba9a7a3/Untitled.png)
+![Establishment_completion](Establishment_completion.png)
 
 ```sql
 -- PowerBI / DAX 
@@ -474,7 +474,7 @@ DIVIDE(
 ) * 100
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5ad1c5e2-3604-4146-b25d-48247979f9e2/a15e601f-743c-47f0-9d6d-0063fd70ae71/Untitled.png)
+![Students_completion](Students_completion.png)
 
 ### Transformation
 
@@ -551,11 +551,11 @@ WHERE [Pays] LIKE 'Eswatini';
 
 ## Dashboard overview
 
-![esseyi_dashboard1.PNG](https://prod-files-secure.s3.us-west-2.amazonaws.com/5ad1c5e2-3604-4146-b25d-48247979f9e2/23ffdc97-ec9b-4002-b0ee-aaf365cf5fd7/esseyi_dashboard1.png)
+![esseyi_dashboard1](esseyi_dashboard1.png)
 
-![esseyi_dashboard2.PNG](https://prod-files-secure.s3.us-west-2.amazonaws.com/5ad1c5e2-3604-4146-b25d-48247979f9e2/25ad81c8-0462-46f5-94ff-8ecd2a39ead1/esseyi_dashboard2.png)
+![esseyi_dashboard2](esseyi_dashboard2.png)
 
-![relations.PNG](https://prod-files-secure.s3.us-west-2.amazonaws.com/5ad1c5e2-3604-4146-b25d-48247979f9e2/55a06a6e-2701-4f1b-afdd-d29e184b582a/relations.png)
+![relations](relations.png)
 
 ---
 
