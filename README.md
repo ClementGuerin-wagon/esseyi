@@ -439,7 +439,7 @@ UPDATE [Esseyi].[dbo].[Users]
 SET New_creation_date = FORMAT(Creation_Date, 'yyyy-MM');
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5ad1c5e2-3604-4146-b25d-48247979f9e2/5ccea4fb-22f1-43ae-a451-75982fca45cf/Untitled.png)
+[Students_wishlist](https://github.com/ClementGuerin-wagon/esseyi/blob/main/Students_wishlist.png)
 
 ### Calculated fields
 
