@@ -551,11 +551,11 @@ WHERE [Pays] LIKE 'Eswatini';
 
 ## Dashboard overview
 
-![esseyi_dashboard1](esseyi_dashboard1.png)
+![esseyi_dashboard1](esseyi_dashboard1.PNG)
 
-![esseyi_dashboard2](esseyi_dashboard2.png)
+![esseyi_dashboard2](esseyi_dashboard2.PNG)
 
-![relations](relations.png)
+![relations](relations.PNG)
 
 ---
 
