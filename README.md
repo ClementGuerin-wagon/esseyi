@@ -1,6 +1,6 @@
 # **Esseyi 🌍**
 
-Esseyi is the first pan-African portal allowing the youth of the continent to orient themselves, study, and work in Africa.
+Esseyi is the first pan-African portal allowing the youth of the continent to orient themselves, study, and work in Africa - https://www.esseyi.com/
 
 Esseyi, which means "Knowledge" in Ikposso (a language spoken in Togo), aims to digitalize the African student ecosystem:
 
