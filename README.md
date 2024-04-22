@@ -16,7 +16,7 @@ Esseyi, which means "Knowledge" in Ikposso (a language spoken in Togo), aims to 
 - Business Demand Overview
 - User stories
 - Data cleaning
-- **Data exploration & transformation**
+- Data exploration & transformation
     - Conversion
     - Calculated fields
     - Transformations
